@@ -1,3 +1,3 @@
 # ng-photo-app
 
-https://src.ruben80.now.sh
+https://photos.ruben80.now.sh
